@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
