@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1656-count-good-triplets](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1656-count-good-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2050-count-good-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
