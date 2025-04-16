@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1580-shuffle-the-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
