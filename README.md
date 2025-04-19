@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1580-shuffle-the-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
