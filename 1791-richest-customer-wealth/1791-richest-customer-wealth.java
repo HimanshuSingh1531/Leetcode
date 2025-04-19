@@ -4,8 +4,8 @@ class Solution {
         for(int i = 0; i < accounts.length; i++){
             int sum = 0;
             for(int j = 0; j < accounts[i].length; j++){
-                sum = sum + accounts[i][j];
-                //sum += accounts[i][j];
+                //sum = sum + accounts[i][j];
+                sum += accounts[i][j];
             }
             maxi = Math.max(maxi,sum);
         }
