@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2249-count-the-hidden-sequences](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2249-count-the-hidden-sequences](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Matrix
 |  |
 | ------- |
