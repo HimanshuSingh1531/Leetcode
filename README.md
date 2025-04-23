@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
