@@ -1,20 +1,14 @@
+//brute force apporach.
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        
-        int len = nums.length;
-		
-		// to store the pair of numbers in right half of the original array
-        for(int i = n; i < len; i++) {
-            nums[i] = (nums[i] * 1024) + nums[i - n];
+        int [] ans = new int[2*n];
+        int j = 0;
+        for(int i = 0; i < 2*n; i = i+2){
+            ans[i] = nums[j];
+            ans [i+1] = nums[j+n];
+            j++;
         }
+        return ans;
         
-        int index = 0;
-		// to retrive values from the pair of numbers and placing those retrieved value at their desired position
-        for(int i = n; i < len; i++, index += 2) {
-            nums[index] = nums[i] % 1024;
-            nums[index + 1] = nums[i] / 1024;
-        }
-        
-        return nums;
     }
 }
