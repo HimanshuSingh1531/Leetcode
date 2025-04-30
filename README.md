@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1656-count-good-triplets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2383-add-two-integers) |
