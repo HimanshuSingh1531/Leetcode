@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
@@ -137,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Combinatorics
 |  |
 | ------- |
