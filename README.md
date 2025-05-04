@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
