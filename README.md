@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
