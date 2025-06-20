@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
