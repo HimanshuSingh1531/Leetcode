@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0868-push-dominoes) |
