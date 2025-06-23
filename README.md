@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HimanshuSingh1531/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/HimanshuSingh1531/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HimanshuSingh1531/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
